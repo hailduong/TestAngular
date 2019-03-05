@@ -1,0 +1,30 @@
+{
+  "name": "John Doe",
+  "playing:"{
+    "album": "Moon and Wind",
+    "track": "1"
+  },
+  "recentlyPlayed":[
+    {
+      "type":"1",
+      "name":"Moon and Wind"
+    }
+    ,
+    {
+      "type":"2",
+      "name":"Club Acoustic"
+    },
+    {
+      "type":"2",
+      "name":"Jazz Viet"
+    },
+    {
+      "type":"1",
+      "name":"Mercuzino Pianist"
+    }
+  ],
+  "recentlyPlayedType": {
+    "1": "album",
+    "2": "playlist"
+  }
+}
