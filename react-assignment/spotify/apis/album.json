@@ -1,6 +1,10 @@
 {
   "name": "Moon and Wind",
   "artist": "Huong Thanh",
+  "covers": {
+    "large": "https://raw.githubusercontent.com/hailduong/lyduong/master/react-assignment/spotify/images/cover-big.jpeg",
+    "small": "https://raw.githubusercontent.com/hailduong/lyduong/master/react-assignment/spotify/images/cover-small.jpeg"
+  },
   "year": "1999",
   "tracks": [
     {

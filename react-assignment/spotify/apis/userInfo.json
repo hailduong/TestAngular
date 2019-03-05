@@ -1,26 +1,26 @@
 {
-  "name": "John Doe",
-  "playing:"{
+  "name": "Ly Duong",
+  "avatar": "https://raw.githubusercontent.com/hailduong/lyduong/master/react-assignment/spotify/images/avatar.jpeg",
+  "playing": {
     "album": "Moon and Wind",
     "track": "1"
   },
-  "recentlyPlayed":[
+  "recentlyPlayed": [
     {
-      "type":"1",
-      "name":"Moon and Wind"
-    }
-    ,
-    {
-      "type":"2",
-      "name":"Club Acoustic"
+      "type": "1",
+      "name": "Moon and Wind"
     },
     {
-      "type":"2",
-      "name":"Jazz Viet"
+      "type": "2",
+      "name": "Club Acoustic"
     },
     {
-      "type":"1",
-      "name":"Mercuzino Pianist"
+      "type": "2",
+      "name": "Jazz Viet"
+    },
+    {
+      "type": "1",
+      "name": "Mercuzino Pianist"
     }
   ],
   "recentlyPlayedType": {
