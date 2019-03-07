@@ -10,7 +10,8 @@ So, here we go:
 <img src='./your-library.jpg' width="100%">
 2. Create a search page
 <img src='./search.jpg' width="100%">
-2. Read [Route Config](https://reacttraining.com/react-router/web/example/route-config) and setup our app to: 	
+3. Read [Route Config](https://reacttraining.com/react-router/web/example/route-config) and setup our app to: 	
+
 	* Clicking the menu item "Your Library", on the left side, would go back to this album listing page. Hint: [Sidebar](https://reacttraining.com/react-router/web/example/sidebar)
 	* Clicking on "Search" would navigate to the search page
 
@@ -19,5 +20,7 @@ So, here we go:
 
 Clicking on each album would:
 
-1. Navigate to that album detail page (we did in the previous assignment). Hint: you may need [query paramerter](https://reacttraining.com/react-router/web/example/query-parameters). 
+1. Navigate to that album detail page (we did in the previous assignment).    
+    * Hint: you may need [query paramerter](https://reacttraining.com/react-router/web/example/query-parameters).
+    * Data: `https://hailduong.github.io/lyduong/react-assignment/spotify-2/apis/album/{id}.json`. e.g.  https://hailduong.github.io/lyduong/react-assignment/spotify-2/apis/album/1.json
 2. Add that album to the top of the "Recently Play" section. Maxium 5 items.
