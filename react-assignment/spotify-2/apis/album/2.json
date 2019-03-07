@@ -1,0 +1,61 @@
+{
+  "name": "Les fleurs du levant (Musique du monde / Music from the World)",
+  "artist": "Huong Thanh",
+  "covers": {
+    "large": "https://raw.githubusercontent.com/hailduong/lyduong/master/react-assignment/spotify-2/images/album2.jpeg",
+    "small": "https://raw.githubusercontent.com/hailduong/lyduong/master/react-assignment/spotify-2/images/album2.jpeg"
+  },
+  "year": "1999",
+  "tracks": [
+    {
+      "number": "1",
+      "title": "The Soaring Of The Heroen",
+      "legnth": "402000"
+    },
+    {
+      "number": "2",
+      "title": "All Is Peace",
+      "legnth": "265000"
+    },
+    {
+      "number": "3",
+      "title": "One River",
+      "legnth": "352000"
+    },
+    {
+      "number": "4",
+      "title": "Lovers On The Mountain",
+      "legnth": "270000"
+    },
+    {
+      "number": "5",
+      "title": "Crossing The Bridge",
+      "legnth": "372000"
+    },
+    {
+      "number": "6",
+      "title": "Autumn Wind",
+      "legnth": "412000"
+    },
+    {
+      "number": "7",
+      "title": "Blackbird Song",
+      "legnth": "322000"
+    },
+    {
+      "number": "8",
+      "title": "The Awaiting",
+      "legnth": "252000"
+    },
+    {
+      "number": "9",
+      "title": "Going Back To Hué",
+      "legnth": "348000"
+    },
+    {
+      "number": "10",
+      "title": "The Source",
+      "legnth": "396000"
+    }
+  ]
+}
